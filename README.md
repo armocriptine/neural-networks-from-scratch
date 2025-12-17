@@ -4,7 +4,7 @@ My own challenge to implement machine learning models like linear regression, mu
 I manually implemented neural network build blocks such as nodes, activation functions, backpropagation, optimizers, etc. myself.
 
 ## Multilayer perceptron
-- Achieves an accuracy on the MNIST handwriting dataset at around 88-92%
+- Achieves an accuracy on the MNIST handwriting dataset at around 88-90%
 
 ## Transformers
 - Implement according to this blueprint
